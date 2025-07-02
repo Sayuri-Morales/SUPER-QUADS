@@ -26,6 +26,6 @@ Se trata de una sección interactiva donde una **llanta principal gira al arrast
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/Sayuri-Morales/SUPER-QUADS)
 cd tu_repositorio 
 npm start 
